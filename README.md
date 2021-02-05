@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there ✨
+
+[Public GPG key](https://jakubarbet.me/pubkey.txt) ⋅
+[Dotfiles](https://github.com/KubqoA/dotfiles) ⋅
+[Soundcloud](https://soundcloud.com/jakub-arbet)
 
 <!--
 **KubqoA/kubqoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
