@@ -1,6 +1,6 @@
 ### Hi there ✨
 
-[Public GPG key](https://jakubarbet.me/pubkey.txt) ⋅
+[Public GPG key](https://jakubarbet.me/gpg/) ⋅
 [Dotfiles](https://github.com/KubqoA/dotfiles) ⋅
 [Soundcloud](https://soundcloud.com/jakub-arbet)
 
