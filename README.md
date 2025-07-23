@@ -1,8 +1,10 @@
 ### Hi there ✨
 
-[Public GPG key](https://jakubarbet.me/gpg/) ⋅
-[Dotfiles](https://github.com/KubqoA/dotfiles) ⋅
-[Soundcloud](https://soundcloud.com/jakub-arbet)
+I'm a full-stack software engineer with 5+ years of experience building web apps with TypeScript, Ruby on Rails, Laravel, React, and Vue.js. Currently looking for new opportunities.
+
+[CV](https://jakubarbet.me) ⋅
+[Public GPG key](https://github.com/KubqoA.gpg) ⋅
+[Dotfiles](https://github.com/KubqoA/dotfiles)
 
 <!--
 **KubqoA/kubqoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
